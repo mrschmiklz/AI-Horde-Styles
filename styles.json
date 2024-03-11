@@ -22,9 +22,9 @@
     "raw": {
         "prompt": "{p}{np}",
         "model": "wowXL420",
-        "steps": 30,
-        "width": 1024,
-        "height": 1024,
+        "steps": 25,
+        "width": 768,
+        "height": 768,
         "cfg_scale": 4.5,
         "sampler_name": "k_dpmpp_sde"
     },
